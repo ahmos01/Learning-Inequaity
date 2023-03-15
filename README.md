@@ -1,4 +1,4 @@
-# Learning-Inequaity
+# Learning-Inequality
 
 01. Data Preprocessing
 This is the first notebook out of 3 which details the steps taken to clean data, engineer new features and visualize preliminary relationships between variables.
